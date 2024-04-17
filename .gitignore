@@ -25,6 +25,8 @@ node_modules
 !.vscode/extensions.json
 
 # misc
+.yarn
+.gitfork
 /.sass-cache
 /connect.lock
 /coverage
