@@ -1,5 +1,5 @@
 {
-  "name": "@magister_zito/eslint-config-javascript",
+  "name": "@rozlib/eslint_eslint-config-javascript",
   "version": "0.15.0",
   "license": "MIT",
   "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
@@ -17,7 +17,7 @@
     "eslint": ">=8.0"
   },
   "dependencies": {
-    "@magister_zito/eslint-config-base": "^0.15.0"
+    "@rozlib/eslint_eslint-config-base": "^0.15.0"
   },
   "devDependencies": {
     "eslint": "^8.31.0"

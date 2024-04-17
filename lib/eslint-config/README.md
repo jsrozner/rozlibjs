@@ -1,4 +1,4 @@
-# @magister_zito/eslint-config
+# @rozlib/eslint-config
 
 Extensible eslint configurations for the punctilious developer.
 
@@ -17,66 +17,66 @@ In .eslintrc,
 
 ```json
 {
-  "extends": ["@magister_zito"]
+  "extends": ["@rozlib"]
 }
 ```
 
 Base
 
 ```bash
-pnpm add -D @magister_zito/eslint-config-base
+pnpm add -D @rozlib/eslint-config-base
 ```
 
 ```json
 {
-  "extends": ["@magister_zito/base"]
+  "extends": ["@rozlib/base"]
 }
 ```
 
 Javascript
 
 ```bash
-pnpm add -D @magister_zito/eslint-config-javascript
+pnpm add -D @rozlib/eslint-config-javascript
 ```
 
 ```json
 {
-  "extends": ["@magister_zito/javascript"]
+  "extends": ["@rozlib/javascript"]
 }
 ```
 
 React
 
 ```bash
-pnpm add -D @magister_zito/eslint-config-react
+pnpm add -D @rozlib/eslint-config-react
 ```
 
 ```json
 {
-  "extends": ["@magister_zito/react"]
+  "extends": ["@rozlib/react"]
 }
 ```
 
 TypeScript
 
 ```bash
-pnpm add -D @magister_zito/eslint-config-typescript
+pnpm add -D @rozlib/eslint-config-typescript
 ```
 
 ```json
 {
-  "extends": ["@magister_zito/typescript"]
+  "extends": ["@rozlib/typescript"]
 }
 ```
 
 Vue
 
 ```bash
-pnpm add -D @magister_zito/eslint-config-vue
+pnpm add -D @rozlib/eslint-config-vue
 ```
 
 ```json
 {
-  "extends": ["@magister_zito/vue"]
+  "extends": ["@rozlib/vue"]
 }
 ```

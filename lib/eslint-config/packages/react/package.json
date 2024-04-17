@@ -1,5 +1,5 @@
 {
-  "name": "@magister_zito/eslint-config-react",
+  "name": "@rozlib/eslint_eslint-config-react",
   "version": "0.15.0",
   "license": "MIT",
   "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
@@ -14,7 +14,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@magister_zito/eslint-config-typescript": "^0.15.0",
+    "@rozlib/eslint_eslint-config-typescript": "^0.15.0",
     "eslint-plugin-cypress": "2.12.1",
     "eslint-plugin-jsx-a11y": "6.7.0",
     "eslint-plugin-react": "^7.29.4",

@@ -1,5 +1,5 @@
 {
-  "name": "@magister_zito/eslint-config-typescript",
+  "name": "@rozlib/eslint_eslint-config-typescript",
   "version": "0.15.0",
   "license": "MIT",
   "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
@@ -15,7 +15,7 @@
     "typescript": ">=4.5"
   },
   "dependencies": {
-    "@magister_zito/eslint-config-base": "^0.15.0"
+    "@rozlib/eslint_eslint-config-base": "^0.15.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.48.1",

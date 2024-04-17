@@ -1,5 +1,5 @@
 {
-  "name": "@magister_zito/eslint-config-vue",
+  "name": "@rozlib/eslint_eslint-config-vue",
   "version": "0.15.0",
   "license": "MIT",
   "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
@@ -14,8 +14,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@magister_zito/eslint-config-base": "^0.15.0",
-    "@magister_zito/eslint-config-typescript": "^0.15.0",
+    "@rozlib/eslint_eslint-config-base": "^0.15.0",
+    "@rozlib/eslint_eslint-config-typescript": "^0.15.0",
     "eslint-plugin-cypress": "2.12.1",
     "eslint-plugin-vue": "9.8.0",
     "eslint-plugin-vuejs-accessibility": "2.0.0"

@@ -1,5 +1,5 @@
 {
-  "name": "@magister_zito/eslint-config-base",
+  "name": "@rozlib/eslint_eslint-config-base",
   "version": "0.15.0",
   "license": "MIT",
   "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
