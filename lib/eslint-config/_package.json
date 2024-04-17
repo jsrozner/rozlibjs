@@ -1,5 +1,5 @@
 {
-  "name": "@rozlib/eslint_eslint-config-collection",
+  "name": "@rozlib/eslint-config-collection",
   "version": "0.0.4",
   "description": "Shared eslint configurations",
   "keywords": [
@@ -26,5 +26,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "prettier": "@rozlib/prettier-config"
+  "prettier": "@rozlib/prettier-config",
+  "gitHead": "e34d3df0f6eee86120e42fad4b062f150b53bb59"
 }

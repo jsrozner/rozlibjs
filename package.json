@@ -1,5 +1,5 @@
 {
-  "name": "@rozlibjs-nx/source",
+  "name": "@rozlib/source",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -17,6 +17,6 @@
   "packageManager": "yarn@4.1.1",
   "workspaces": [
     "lib/*",
-    "lib/eslint/*"
+    "lib/eslint-config/packages/*"
   ]
 }
