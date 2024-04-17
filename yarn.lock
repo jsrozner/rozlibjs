@@ -2156,7 +2156,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rozlib/eslint-config-base@npm:^0.15.0, @rozlib/eslint-config-base@workspace:lib/eslint-config/packages/base":
+"@rozlib/eslint-config-base@npm:^0.0.5, @rozlib/eslint-config-base@workspace:lib/eslint-config/packages/base":
   version: 0.0.0-use.local
   resolution: "@rozlib/eslint-config-base@workspace:lib/eslint-config/packages/base"
   dependencies:
@@ -2182,18 +2182,18 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@rozlib/eslint-config-javascript@workspace:lib/eslint-config/packages/javascript"
   dependencies:
-    "@rozlib/eslint-config-base": "npm:^0.15.0"
+    "@rozlib/eslint-config-base": "npm:^0.0.5"
     eslint: "npm:^8.31.0"
   peerDependencies:
     eslint: ">=8.0"
   languageName: unknown
   linkType: soft
 
-"@rozlib/eslint-config-react@npm:^0.15.0, @rozlib/eslint-config-react@workspace:lib/eslint-config/packages/react":
+"@rozlib/eslint-config-react@npm:^0.0.5, @rozlib/eslint-config-react@workspace:lib/eslint-config/packages/react":
   version: 0.0.0-use.local
   resolution: "@rozlib/eslint-config-react@workspace:lib/eslint-config/packages/react"
   dependencies:
-    "@rozlib/eslint-config-typescript": "npm:^0.15.0"
+    "@rozlib/eslint-config-typescript": "npm:^0.0.5"
     eslint: "npm:^8.31.0"
     eslint-plugin-cypress: "npm:2.12.1"
     eslint-plugin-jsx-a11y: "npm:6.7.0"
@@ -2206,11 +2206,11 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rozlib/eslint-config-typescript@npm:^0.15.0, @rozlib/eslint-config-typescript@workspace:lib/eslint-config/packages/typescript":
+"@rozlib/eslint-config-typescript@npm:^0.0.5, @rozlib/eslint-config-typescript@workspace:lib/eslint-config/packages/typescript":
   version: 0.0.0-use.local
   resolution: "@rozlib/eslint-config-typescript@workspace:lib/eslint-config/packages/typescript"
   dependencies:
-    "@rozlib/eslint-config-base": "npm:^0.15.0"
+    "@rozlib/eslint-config-base": "npm:^0.0.5"
     "@typescript-eslint/eslint-plugin": "npm:^5.48.1"
     "@typescript-eslint/parser": "npm:^5.48.1"
     eslint: "npm:^8.31.0"
@@ -2220,12 +2220,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rozlib/eslint-config-vue@npm:^0.15.0, @rozlib/eslint-config-vue@workspace:lib/eslint-config/packages/vue":
+"@rozlib/eslint-config-vue@npm:^0.0.5, @rozlib/eslint-config-vue@workspace:lib/eslint-config/packages/vue":
   version: 0.0.0-use.local
   resolution: "@rozlib/eslint-config-vue@workspace:lib/eslint-config/packages/vue"
   dependencies:
-    "@rozlib/eslint-config-base": "npm:^0.15.0"
-    "@rozlib/eslint-config-typescript": "npm:^0.15.0"
+    "@rozlib/eslint-config-base": "npm:^0.0.5"
+    "@rozlib/eslint-config-typescript": "npm:^0.0.5"
     eslint: "npm:^8.31.0"
     eslint-plugin-cypress: "npm:2.12.1"
     eslint-plugin-vue: "npm:9.8.0"
@@ -2240,8 +2240,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@rozlib/eslint-config@workspace:lib/eslint-config/packages/all"
   dependencies:
-    "@rozlib/eslint-config-react": "npm:^0.15.0"
-    "@rozlib/eslint-config-vue": "npm:^0.15.0"
+    "@rozlib/eslint-config-react": "npm:^0.0.5"
+    "@rozlib/eslint-config-vue": "npm:^0.0.5"
     "@typescript-eslint/eslint-plugin": "npm:^5.48.1"
     "@typescript-eslint/parser": "npm:^5.48.1"
     eslint: "npm:^8.31.0"
