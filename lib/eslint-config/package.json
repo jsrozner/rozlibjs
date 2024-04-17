@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/eslint_eslint-config-collection",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Shared eslint configurations",
   "keywords": [
     "eslint",
