@@ -27,5 +27,5 @@
     "packages/*"
   ],
   "prettier": "@rozlib/prettier-config",
-  "gitHead": "1a9c22b9ab7b1dfd468eefb2b10c6accda2ba1ea"
+  "gitHead": "691ec82c76b75b1283500c1f4b10adb0f3fd6cb2"
 }
