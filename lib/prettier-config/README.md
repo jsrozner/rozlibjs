@@ -1,4 +1,5 @@
 # @magister_zito/prettier-config
+https://github.com/exbotanical/prettier-config
 
 Extensible prettier configurations for the punctilious developer.
 

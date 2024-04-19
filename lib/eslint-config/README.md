@@ -1,4 +1,5 @@
 # @rozlib/eslint-config
+https://github.com/exbotanical/eslint-config
 
 Extensible eslint configurations for the punctilious developer.
 
