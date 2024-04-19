@@ -8,7 +8,6 @@
     "prep": "pnpm lint && pnpm format && git add .",
     "release": "lerna publish --conventional-commits"
   },
-  "private": true,
   "devDependencies": {
     "@nx/js": "18.3.1",
     "@nx/workspace": "18.3.1",
@@ -17,7 +16,7 @@
   },
   "packageManager": "yarn@4.1.1",
   "workspaces": [
-    "lib/*"
+    "lib/**"
   ],
   "publishConfig": {
     "access": "public",
