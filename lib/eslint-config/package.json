@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/eslint-config-collection",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Shared eslint configurations",
   "keywords": [
     "eslint",
@@ -27,6 +27,5 @@
     "packages/*"
   ],
   "prettier": "@rozlib/prettier-config",
-  "gitHead": "deb315a7fa436d7da74e4c31c32eb0e811d15695",
-  "private": false
+  "gitHead": "deb315a7fa436d7da74e4c31c32eb0e811d15695"
 }

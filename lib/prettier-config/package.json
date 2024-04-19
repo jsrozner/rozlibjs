@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/prettier-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Shared prettier configurations",
   "keywords": [
     "prettier",
@@ -26,6 +26,5 @@
     "eslint-config-prettier": "8.8.0",
     "prettier": "2.8.7"
   },
-  "prettier": "./index.js",
-  "private": false
+  "prettier": "./index.js"
 }
