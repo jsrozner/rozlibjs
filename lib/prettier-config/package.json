@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/prettier-config",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Shared prettier configurations",
   "keywords": [
     "prettier",
