@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/eslint-config-typescript",
-  "version": "0.0.5",
+  "version": "0.0.8",
   "license": "MIT",
   "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
   "files": [

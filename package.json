@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/source",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "scripts": {
     "format": "prettier . --write --ignore-path node_modules/@rozlib/prettier-config/.prettierignore",
@@ -16,7 +16,8 @@
   },
   "packageManager": "yarn@4.1.1",
   "workspaces": [
-    "lib/**"
+    "lib/eslint-config/packages/*",
+    "lib/prettier-config"
   ],
   "publishConfig": {
     "access": "public",
