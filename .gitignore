@@ -25,8 +25,6 @@ node_modules
 !.vscode/extensions.json
 
 # misc
-.yarn
-.gitfork
 /.sass-cache
 /connect.lock
 /coverage
@@ -41,3 +39,7 @@ testem.log
 Thumbs.db
 
 .nx/cache
+
+.yarn
+.gitfork
+*.log
