@@ -1,0 +1,30 @@
+{
+  "name": "@rozlib/prettier-config",
+  "version": "0.0.5",
+  "description": "Shared prettier configurations",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "license": "MIT",
+  "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
+  "files": [
+    "index.js",
+    ".prettierignore"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "lint": "eslint . --fix",
+    "prep": "yarn lint && yarn format && git add .",
+    "release": "bump --commit \"feat: publish v%s \" --tag \"v%s\" --push && pnpm publish --access public"
+  },
+  "devDependencies": {
+    "@jsdevtools/version-bump-prompt": "^6.1.0",
+    "@rozlib/eslint-config-javascript": "*",
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "8.8.0",
+    "prettier": "2.8.7"
+  },
+  "prettier": "./index.js"
+}

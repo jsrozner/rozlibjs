@@ -1,0 +1,3 @@
+{
+  "extends": ["@roz-lib/javascript", "prettier"]
+}
