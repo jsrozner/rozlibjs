@@ -15,8 +15,9 @@
     "prep": "yarn lint && yarn format && git add .",
     "release": "lerna publish --conventional-commits"
   },
+  "private": true,
   "devDependencies": {
-    "@rozlib/eslint-config": "*",
+    "@rozlib/eslint-config": "latest",
     "eslint": "^8.31.0",
     "eslint-config-prettier": "8.6.0",
     "lerna": "^4.0.0",
