@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/prettier-config",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Shared prettier configurations",
   "keywords": [
     "prettier",
@@ -27,6 +27,5 @@
     "prettier": "2.8.7"
   },
   "prettier": "./index.js",
-  "private": false,
   "gitHead": "1c2b0784842772ed744c8457c6e8cf6ee977c15c"
 }
