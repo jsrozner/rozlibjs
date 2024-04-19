@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/prettier-config",
-  "version": "0.0.17",
+  "version": "0.0.18",
   "description": "Shared prettier configurations",
   "keywords": [
     "prettier",
@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@jsdevtools/version-bump-prompt": "^6.1.0",
-    "@rozlib/eslint-config-javascript": "*",
+    "@rozlib/eslint-config-javascript": "^0.0.18",
     "eslint": "^8.38.0",
     "eslint-config-prettier": "8.8.0",
     "prettier": "2.8.7"

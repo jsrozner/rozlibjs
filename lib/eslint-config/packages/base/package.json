@@ -1,6 +1,6 @@
 {
   "name": "@rozlib/eslint-config-base",
-  "version": "0.0.8",
+  "version": "0.0.18",
   "license": "MIT",
   "author": "Matthew Zito <matthewtzito@gmail.com> (goldmund)",
   "files": [

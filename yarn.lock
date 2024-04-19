@@ -2230,7 +2230,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@rozlib/eslint-config-javascript@npm:*, @rozlib/eslint-config-javascript@workspace:lib/eslint-config/packages/javascript":
+"@rozlib/eslint-config-javascript@npm:^0.0.18, @rozlib/eslint-config-javascript@workspace:lib/eslint-config/packages/javascript":
   version: 0.0.0-use.local
   resolution: "@rozlib/eslint-config-javascript@workspace:lib/eslint-config/packages/javascript"
   dependencies:
@@ -2360,7 +2360,7 @@ __metadata:
   resolution: "@rozlib/prettier-config@workspace:lib/prettier-config"
   dependencies:
     "@jsdevtools/version-bump-prompt": "npm:^6.1.0"
-    "@rozlib/eslint-config-javascript": "npm:*"
+    "@rozlib/eslint-config-javascript": "npm:^0.0.18"
     eslint: "npm:^8.38.0"
     eslint-config-prettier: "npm:8.8.0"
     prettier: "npm:2.8.7"
