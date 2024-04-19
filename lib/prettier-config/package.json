@@ -26,5 +26,6 @@
     "eslint-config-prettier": "8.8.0",
     "prettier": "2.8.7"
   },
-  "prettier": "./index.js"
+  "prettier": "./index.js",
+  "gitHead": "0753aa8deaf531697222a96aff715f4077672db4"
 }

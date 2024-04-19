@@ -2,6 +2,7 @@
   "name": "@rozlib/source",
   "version": "0.0.0",
   "license": "MIT",
+  "private": true,
   "scripts": {
     "format": "prettier . --write --ignore-path node_modules/@rozlib/prettier-config/.prettierignore",
     "lint": "eslint . --fix",
